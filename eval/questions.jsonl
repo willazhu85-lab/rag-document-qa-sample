@@ -1,0 +1,30 @@
+{"id":"q01","question":"How long is the warranty on tents?","answer":"2-year limited warranty","keywords":["2-year","limited warranty"],"source":"warranty.md","heading":"Coverage periods","refusal":false}
+{"id":"q02","question":"What is the warranty period for sleeping bags?","answer":"1-year limited warranty","keywords":["1-year","limited warranty"],"source":"warranty.md","heading":"Coverage periods","refusal":false}
+{"id":"q03","question":"How long can I return unused products?","answer":"30 days after delivery","keywords":["30 days","delivery"],"source":"returns.md","heading":"Standard return window","refusal":false}
+{"id":"q04","question":"Who pays return shipping for a normal return?","answer":"The customer pays unless wrong or damaged item","keywords":["customer pays","shipping"],"source":"returns.md","heading":"Standard return window","refusal":false}
+{"id":"q05","question":"When must damage be reported?","answer":"Within 7 days","keywords":["7 days","damaged"],"source":"returns.md","heading":"Final sale and exceptions","refusal":false}
+{"id":"q06","question":"How much is standard shipping below $75?","answer":"$8","keywords":["$8","under $75"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"q07","question":"When does standard shipping become free?","answer":"Orders of $75 or more before tax","keywords":["$75","free"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"q08","question":"How long does standard shipping usually take after dispatch?","answer":"4–7 business days","keywords":["4–7 business days","dispatch"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"q09","question":"What does two-day shipping cost?","answer":"$22 flat","keywords":["$22","flat"],"source":"shipping.md","heading":"Expedited and remote destinations","refusal":false}
+{"id":"q10","question":"How many points per dollar do members earn?","answer":"1 point per whole dollar","keywords":["1 point","dollar"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"q11","question":"How much discount is 100 rewards points?","answer":"$5 discount","keywords":["100 points","$5"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"q12","question":"When do reward points post?","answer":"14 days after shipment","keywords":["14 days","ships"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"q13","question":"When do points expire?","answer":"After 12 months without qualifying purchase activity","keywords":["12 months","purchase"],"source":"rewards.md","heading":"Expiration and limits","refusal":false}
+{"id":"q14","question":"What is the daily meal reimbursement maximum?","answer":"$45 per person per day","keywords":["$45","per day"],"source":"expenses.md","heading":"Submission deadline and limit","refusal":false}
+{"id":"q15","question":"How soon must employees submit expenses?","answer":"Within 30 days","keywords":["30 days","receipt"],"source":"expenses.md","heading":"Submission deadline and limit","refusal":false}
+{"id":"q16","question":"What mileage reimbursement rate applies to business travel?","answer":"$0.67 per mile","keywords":["$0.67","per mile"],"source":"expenses.md","heading":"Travel and excluded expenses","refusal":false}
+{"id":"q17","question":"How many vacation days do full-time employees receive?","answer":"15 days per calendar year","keywords":["15","vacation days"],"source":"leave.md","heading":"Vacation allowance","refusal":false}
+{"id":"q18","question":"How much vacation may carry over?","answer":"Up to 5 days","keywords":["5","days","March 31"],"source":"leave.md","heading":"Carryover and sick leave","refusal":false}
+{"id":"q19","question":"How many paid sick days are provided?","answer":"6 per year","keywords":["6","sick days"],"source":"leave.md","heading":"Carryover and sick leave","refusal":false}
+{"id":"q20","question":"After how many employment days can eligible employees work remotely?","answer":"90 days","keywords":["90 days","remote"],"source":"remote-work.md","heading":"Eligibility and schedule","refusal":false}
+{"id":"q21","question":"What is the one-time home office allowance?","answer":"$300","keywords":["$300","allowance"],"source":"remote-work.md","heading":"Equipment and security","refusal":false}
+{"id":"q22","question":"What is the wholesale minimum opening order?","answer":"$1,000","keywords":["$1,000","opening order"],"source":"wholesale.md","heading":"Eligibility and pricing","refusal":false}
+{"id":"q23","question":"What discount do approved wholesale accounts receive?","answer":"20% off list price","keywords":["20%","list price"],"source":"wholesale.md","heading":"Eligibility and pricing","refusal":false}
+{"id":"q24","question":"How long are order records retained?","answer":"7 years","keywords":["7 years","order records"],"source":"privacy.md","heading":"Data retention and access","refusal":false}
+{"id":"q25","question":"How many promo codes can be used per order?","answer":"One","keywords":["one","promotional code"],"source":"discounts.md","heading":"Coupon rules","refusal":false}
+{"id":"q26","question":"What color is the CEO's favorite tent?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"q27","question":"What is Acme's annual revenue?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"q28","question":"Which factory manufactures the backpacks?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"q29","question":"What is the CEO's name?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"q30","question":"What was the company's founding year?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}

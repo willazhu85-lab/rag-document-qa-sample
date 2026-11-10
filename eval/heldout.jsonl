@@ -1,0 +1,15 @@
+{"id":"h01","question":"If my tent fails, how long is the guarantee?","answer":"2-year limited warranty","keywords":["2-year","limited warranty"],"source":"warranty.md","heading":"Coverage periods","refusal":false}
+{"id":"h02","question":"Can I send back something unused, and by when?","answer":"Within 30 days after delivery","keywords":["30 days","delivery"],"source":"returns.md","heading":"Standard return window","refusal":false}
+{"id":"h03","question":"My parcel arrived broken. How quickly do I need to tell you?","answer":"Within 7 days","keywords":["7 days","damaged"],"source":"returns.md","heading":"Final sale and exceptions","refusal":false}
+{"id":"h04","question":"What do you charge to ship an order under 75 dollars?","answer":"$8","keywords":["$8","under $75"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"h05","question":"When is regular delivery on the house?","answer":"Orders of $75 or more before tax","keywords":["$75","free"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"h06","question":"How many days does ground shipping take once it leaves?","answer":"4–7 business days after dispatch","keywords":["4–7 business days","dispatch"],"source":"shipping.md","heading":"Rates and timing","refusal":false}
+{"id":"h07","question":"How many points do I get for each dollar I spend?","answer":"1 point per whole dollar","keywords":["1 point","dollar"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"h08","question":"What can I take off my bill with a hundred points?","answer":"$5 discount","keywords":["100 points","$5"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"h09","question":"When do my points show up after buying?","answer":"14 days after shipment","keywords":["14 days","ships"],"source":"rewards.md","heading":"Earning and redeeming points","refusal":false}
+{"id":"h10","question":"What's the most I can claim for meals in a day?","answer":"$45 per person per day","keywords":["$45","per day"],"source":"expenses.md","heading":"Submission deadline and limit","refusal":false}
+{"id":"h11","question":"How long do I have to turn in an expense claim?","answer":"Within 30 days with receipt","keywords":["30 days","receipt"],"source":"expenses.md","heading":"Submission deadline and limit","refusal":false}
+{"id":"h12","question":"What's the per-mile rate for work trips?","answer":"$0.67 per mile","keywords":["$0.67","per mile"],"source":"expenses.md","heading":"Travel and excluded expenses","refusal":false}
+{"id":"h13","question":"How much money did Acme make last year?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"h14","question":"Does Acme say what its chief executive's favourite colour is?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
+{"id":"h15","question":"Which factory makes the backpacks sold by Acme?","answer":null,"keywords":[],"source":null,"heading":null,"refusal":true}
